@@ -1,0 +1,15 @@
+C:\Users\aniki\Desktop\HomeWork8\ex_002\bin\Debug\net6.0\ex_002.exe
+C:\Users\aniki\Desktop\HomeWork8\ex_002\bin\Debug\net6.0\ex_002.deps.json
+C:\Users\aniki\Desktop\HomeWork8\ex_002\bin\Debug\net6.0\ex_002.runtimeconfig.json
+C:\Users\aniki\Desktop\HomeWork8\ex_002\bin\Debug\net6.0\ex_002.dll
+C:\Users\aniki\Desktop\HomeWork8\ex_002\bin\Debug\net6.0\ex_002.pdb
+C:\Users\aniki\Desktop\HomeWork8\ex_002\obj\Debug\net6.0\ex_002.csproj.AssemblyReference.cache
+C:\Users\aniki\Desktop\HomeWork8\ex_002\obj\Debug\net6.0\ex_002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aniki\Desktop\HomeWork8\ex_002\obj\Debug\net6.0\ex_002.AssemblyInfoInputs.cache
+C:\Users\aniki\Desktop\HomeWork8\ex_002\obj\Debug\net6.0\ex_002.AssemblyInfo.cs
+C:\Users\aniki\Desktop\HomeWork8\ex_002\obj\Debug\net6.0\ex_002.csproj.CoreCompileInputs.cache
+C:\Users\aniki\Desktop\HomeWork8\ex_002\obj\Debug\net6.0\ex_002.dll
+C:\Users\aniki\Desktop\HomeWork8\ex_002\obj\Debug\net6.0\refint\ex_002.dll
+C:\Users\aniki\Desktop\HomeWork8\ex_002\obj\Debug\net6.0\ex_002.pdb
+C:\Users\aniki\Desktop\HomeWork8\ex_002\obj\Debug\net6.0\ex_002.genruntimeconfig.cache
+C:\Users\aniki\Desktop\HomeWork8\ex_002\obj\Debug\net6.0\ref\ex_002.dll
